@@ -9,8 +9,8 @@ CurrencyConverter::convert("USD","INR")
 
 Below are supported currencies:
 
-United Arab Emirates Dirham (AED) 
-Afghan Afghani (AFN) 
+* United Arab Emirates Dirham (AED)
+* Afghan Afghani (AFN) 
 Albanian Lek (ALL)
 Armenian Dram (AMD)
 Netherlands Antillean Guilder (ANG)
